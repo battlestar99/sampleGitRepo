@@ -1,0 +1,4 @@
+java for programming
+selenium for web testing 
+
+testng and cucumber for test libary
